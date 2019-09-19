@@ -32,3 +32,4 @@ def test_is_normal_ks(fn):
         ])
 
     assert_output(fn, fn_inputs, fn_correct_outputs)
+

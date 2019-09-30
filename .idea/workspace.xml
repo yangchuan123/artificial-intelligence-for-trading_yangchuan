@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ddfb0e3-7ceb-4e4e-8dbd-f17600ba446b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/project/project_1/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artificial-intelligence-for-trading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artificial-intelligence-for-trading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,62 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/project_1_starter.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/project_1_solution.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/helper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/project1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/project_helper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="399">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/project_tests.py">
+        <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3154">
-              <caret line="170" column="19" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
+            <state relative-caret-position="665">
+              <caret line="35" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -79,14 +40,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/project_1/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/tests.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/project_tests.py">
+        <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="95">
+              <caret line="8" column="40" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="26" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -95,7 +78,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/tests.py">
+        <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/test_normality.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/test_normality_solution.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -122,20 +115,15 @@
         <option value="$PROJECT_DIR$/scipy/test.py" />
         <option value="$PROJECT_DIR$/project/project_1/project1.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz_tests.py" />
+        <option value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/visualize.py" />
+        <option value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/other.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="464" />
-    <option name="y" value="94" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1096" />
   </component>
@@ -166,13 +154,69 @@
             <path>
               <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
               <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="project_2" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="project_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="m1_quant_basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="m1_quant_basics" type="462c0819:PsiDirectoryNode" />
+              <item name="l5_stock_returns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="m2_advanced_quants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="artificial-intelligence-for-trading_yangchuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="artificial-intelligence-for-trading_yangchuan" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="m2_advanced_quants" type="462c0819:PsiDirectoryNode" />
+              <item name="l3_regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,14 +225,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vnpy-2.0.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\trade\sourcecode\artificial-intelligence-for-trading_yangchuan\quiz\m2_advanced_quants\l3_regression" />
       <recent name="E:\projects\trade\sourcecode\artificial-intelligence-for-trading_yangchuan\project\project_1" />
       <recent name="E:\projects\trade\sourcecode\artificial-intelligence-for-trading_yangchuan\quiz\m1_quant_basics\l6_momentum_trading" />
     </key>
@@ -206,28 +252,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.quiz">
-    <configuration name="TestReturnsforStatisticalSignificance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="artificial-intelligence-for-trading" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/TestReturnsforStatisticalSignificance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="artificial-intelligence-for-trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,17 +274,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="project_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="artificial-intelligence-for-trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/project_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l8_momentum_trading" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/project_1/project1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m1_quant_basics/l8_momentum_trading/project_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,64 +296,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="artificial-intelligence-for-trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\projects\trade\sourcecode\artificial-intelligence-for-trading\quiz\m1_quant_basics\l6_momentum_trading\quiz1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quiz" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="artificial-intelligence-for-trading" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="E:\projects\trade\sourcecode\artificial-intelligence-for-trading\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns" />
+      <option name="SDK_HOME" value="E:\projects\trade\sourcecode\artificial-intelligence-for-trading_yangchuan\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quiz1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="artificial-intelligence-for-trading" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/quiz1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quiz_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="artificial-intelligence-for-trading" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,12 +323,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scipy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scipy/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,13 +337,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="artificial-intelligence-for-trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="artificial-intelligence-for-trading" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.project_tests" />
+      <item itemvalue="Python.quiz" />
+      <item itemvalue="Python.quiz_tests" />
+      <item itemvalue="Python.tests" />
+      <item itemvalue="Python.visualize" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.project1" />
-        <item itemvalue="Python.TestReturnsforStatisticalSignificance" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.quiz1" />
-        <item itemvalue="Python.quiz (1)" />
+        <item itemvalue="Python.quiz" />
+        <item itemvalue="Python.visualize" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.project_tests" />
+        <item itemvalue="Python.quiz_tests" />
       </list>
     </recent_temporary>
   </component>
@@ -389,17 +420,23 @@
       <workItem from="1567487148978" duration="2389000" />
       <workItem from="1567574334597" duration="119000" />
       <workItem from="1568618274996" duration="2301000" />
+      <workItem from="1568874435231" duration="512000" />
+      <workItem from="1568875846465" duration="876000" />
+      <workItem from="1568878577610" duration="2685000" />
+      <workItem from="1569575601239" duration="1198000" />
+      <workItem from="1569749969116" duration="1588000" />
+      <workItem from="1569807809534" duration="1647000" />
+      <workItem from="1569809733879" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19612000" />
+    <option name="totallyTimeSpent" value="28929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="464" y="94" width="976" height="1096" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2871179" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15298508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -414,13 +451,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.41897655" side_tool="true" weight="0.31866953" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32848233" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32848233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.495842" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="5" side_tool="true" visible="true" weight="0.03275109" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="5" sideWeight="0.50363445" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,16 +471,6 @@
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/calculate_returns.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/tests.py" />
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/calculate_returns_solution.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -453,16 +480,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/top_and_bottom_performing_solution.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scipy/test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -478,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/TestReturnsforStatisticalSignificance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -499,17 +506,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/project_1/tests.py" />
-    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/quiz1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/project/project_1/project_1_starter.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_1/project_1_solution.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project/project_1/helper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_1/project1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -532,6 +548,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_1/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/project_tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -544,29 +563,176 @@
     <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/project_1/project_1_starter.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
+    <entry file="file://$PROJECT_DIR$/project/project_2/project_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/project_1/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l2_stock_prices/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l4_stock_prices/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_market_mechanics/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="169" column="33" lean-forward="true" selection-start-line="169" selection-start-column="33" selection-end-line="169" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l6_momentum_trading/quiz1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l2_stock_prices/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/project_1/project_1_solution.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/project_1/project1.py">
+    <entry file="file://$PROJECT_DIR$/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state>
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l8_momentum_trading/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2679">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l8_momentum_trading/project_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/eod-quotemedia.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/project_7/sector_names.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l3_market_mechanics/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="247">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l3_market_mechanics/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding>
+            <element signature="e#56#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/test_normality.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/test_normality_solution.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m1_quant_basics/l5_stock_returns/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="40" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/m2_advanced_quants/l3_regression/quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
